@@ -1,0 +1,13 @@
+.linea{
+    color: black;
+    position: relative; top: auto;
+}
+
+header{
+    display: flex; justify-content: left;
+    font-size: 10px;
+}
+
+.video{
+    display: flex; justify-content: center
+}

@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+
+        h1{
+            color: white;
+        }
+        h2{
+            color: white;
+        }
+        h3{
+            color: white;
+        }
+
+       .letras{
+        color: white;
+       }
+
+
+
+       div{
+        display: flex;
+       }
+
+
+
+
+
+       .cuadrado1{
+            display: block;
+            justify-content: center;
+            background-color: cadetblue;
+            width: max-content;
+            border: solid 3px yellow;
+            border-radius: 20px;
+            padding: 30px;
+       }
+
+        .cuadrado2{
+            display: block;
+            justify-content: center;
+            background-color: cadetblue;
+            width: max-content;
+            border: solid 3px yellow;
+            border-radius: 20px;
+            padding: 30px;
+       }
+
+    
